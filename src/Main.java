@@ -52,7 +52,7 @@ public class Main {
         for (a = 0; a < int_random_b && a <= 100 && b > a; a --)
         {
             z = ((((a + b) * (a + b)) ^ e) / (((a - b) * (a - b)) ^ e)) * int_random_a;
-            System.out.println("Zmienne - wyakaz:" + z + " (.)");
+            System.out.println("Zmienne - wykaz:" + z + " (.)");
         }
     }
 }
